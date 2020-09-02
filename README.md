@@ -1,5 +1,5 @@
 # Numerical_Methods-AMATH581
-Collection of numerical methods written for AMATH 581
+Numerical Method assignments written for AMATH 581
 
 Homework 0: Basic MATLAB operations, Newton's Method iterative solver
 Homework 1: ODE solvers utilizing Euler's method and Heun's method
